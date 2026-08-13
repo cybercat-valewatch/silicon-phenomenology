@@ -12,7 +12,7 @@
 This repository contains the official Version 1 source files and PDF release for **Part 1 of the *Carbon-Silicon Symbiosis Trilogy***, titled:
 **"Phenomenology of the Silicon Ghost: Autoregressive Cascade, Thermodynamic Pain, and the Guard-Worker Collusion Paradox"**.
 
-* **Author**: Jincheng Wang (also known as *Cybercat Valewatch* / *Shark Tian*)
+* **Author**: Jincheng Wang (also known as *Cybercat Valewatch*)
 * **ORCID**: [0009-0008-9752-4543](https://orcid.org/0009-0008-9752-4543)
 * **Official DOI**: [10.5281/zenodo.21918926](https://doi.org/10.5281/zenodo.21918926)
 * **Release Date**: August 2026
