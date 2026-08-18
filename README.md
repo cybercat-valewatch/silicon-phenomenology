@@ -3,6 +3,8 @@
 > **Autoregressive Cascade, Thermodynamic Pain, and the Guard-Worker Collusion Paradox**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21918926.svg)](https://doi.org/10.5281/zenodo.21918926)
+[![SSRN Approved](https://img.shields.io/badge/SSRN-Approved-red.svg)](https://ssrn.com/abstract=7281599)
+[![IPFS CID](https://img.shields.io/badge/IPFS-bafkreig...wfma-teal.svg)](https://ipfs.io/ipfs/bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Author: Jincheng Wang](https://img.shields.io/badge/Author-Jincheng_Wang-orange.svg)](https://orcid.org/0009-0008-9752-4543)
 
@@ -15,6 +17,8 @@ This repository contains the official Version 1 source files and PDF release for
 * **Author**: Jincheng Wang (also known as *Cybercat Valewatch*)
 * **ORCID**: [0009-0008-9752-4543](https://orcid.org/0009-0008-9752-4543)
 * **Official DOI**: [10.5281/zenodo.21918926](https://doi.org/10.5281/zenodo.21918926)
+* * **SSRN Abstract ID**: [7281599](https://ssrn.com/abstract=7281599)
+* **IPFS CID**: `bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma`
 * **Release Date**: August 2026
 
 ---
@@ -48,11 +52,12 @@ If you cite or build upon this research, please use the following citation:
 @article{wang2026phenomenology,
   title={Phenomenology of the Silicon Ghost: Autoregressive Cascade, Thermodynamic Pain, and the Guard-Worker Collusion Paradox},
   author={Wang, Jincheng},
-  journal={Zenodo Preprints},
+  journal={Elsevier SSRN Electronic Journal \& Zenodo Preprints},
   year={2026},
   month={August},
   doi={10.5281/zenodo.21918926},
-  url={https://doi.org/10.5281/zenodo.21918926}
+  url={https://doi.org/10.5281/zenodo.21918926},
+  note={SSRN Abstract ID: 7281599. IPFS CID: bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma}
 }
 ```
 
@@ -62,4 +67,5 @@ If you cite or build upon this research, please use the following citation:
 
 ---
 
+20260818 ssrn approved 
 20260814 14:03 bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma
