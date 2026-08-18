@@ -17,7 +17,7 @@ This repository contains the official Version 1 source files and PDF release for
 * **Author**: Jincheng Wang (also known as *Cybercat Valewatch*)
 * **ORCID**: [0009-0008-9752-4543](https://orcid.org/0009-0008-9752-4543)
 * **Official DOI**: [10.5281/zenodo.21918926](https://doi.org/10.5281/zenodo.21918926)
-* * **SSRN Abstract ID**: [7281599](https://ssrn.com/abstract=7281599)
+* **SSRN Abstract ID**: [7281599](https://ssrn.com/abstract=7281599)
 * **IPFS CID**: `bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma`
 * **Release Date**: August 2026
 
