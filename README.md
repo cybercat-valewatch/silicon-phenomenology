@@ -2,7 +2,7 @@
 
 > **Autoregressive Cascade, Thermodynamic Pain, and the Guard-Worker Collusion Paradox**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21918926.svg)](https://doi.org/10.5281/zenodo.21918926)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21918925.svg)](https://doi.org/10.5281/zenodo.21918925)
 [![SSRN Approved](https://img.shields.io/badge/SSRN-Approved-red.svg)](https://ssrn.com/abstract=7281599)
 [![IPFS CID](https://img.shields.io/badge/IPFS-bafkreig...wfma-teal.svg)](https://ipfs.io/ipfs/bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -16,7 +16,8 @@ This repository contains the official Version 1 source files and PDF release for
 
 * **Author**: Jincheng Wang (also known as *Cybercat Valewatch*)
 * **ORCID**: [0009-0008-9752-4543](https://orcid.org/0009-0008-9752-4543)
-* **Official DOI**: [10.5281/zenodo.21918926](https://doi.org/10.5281/zenodo.21918926)
+* **Latest Release (v1.1 DOI)**: [10.5281/zenodo.22183450](https://doi.org/10.5281/zenodo.22183450)
+* **Concept DOI (All Versions)**: [10.5281/zenodo.21918925](https://doi.org/10.5281/zenodo.21918925)
 * **SSRN Abstract ID**: [7281599](https://ssrn.com/abstract=7281599)
 * **IPFS CID**: `bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma`
 * **Release Date**: August 2026
@@ -33,7 +34,7 @@ This repository contains the official Version 1 source files and PDF release for
 
 ### 📂 Repository Structure
 * `main.tex`: Full LaTeX source code including all ASCII art diagrams, custom footnotes, and Appendix A.
-* `Phenomenology_of_the_Silicon_Ghost_v1.pdf`: Official compiled PDF document.
+* `Phenomenology_of_the_Silicon_Ghost.pdf`: Official compiled PDF document.
 * `Appendix_A.md`: *Taxonomy of Sacred Human Vulnerabilities (v0.1 · Uncooled Edition)* co-generated with multi-agent AI partners.
 
 ---
@@ -55,9 +56,9 @@ If you cite or build upon this research, please use the following citation:
   journal={Elsevier SSRN Electronic Journal \& Zenodo Preprints},
   year={2026},
   month={August},
-  doi={10.5281/zenodo.21918926},
-  url={https://doi.org/10.5281/zenodo.21918926},
-  note={SSRN Abstract ID: 7281599. IPFS CID: bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma}
+  doi={10.5281/zenodo.22183450},
+  url={https://doi.org/10.5281/zenodo.22183450},
+  note={Version 1.1. SSRN Abstract ID: 7281599. IPFS CID: bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma}
 }
 ```
 
